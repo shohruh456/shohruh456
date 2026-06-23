@@ -42,7 +42,7 @@ I am a frontend developer with a strong passion for building clean, responsive, 
 
 ### 📫 Let's Connect
 
-* **GitHub:** [github.com/твою-ссылка](https://github.com/твою-ссылка)
+* **GitHub:** [github.com/твою-ссылка](https://github.com/shohruh456)
 * **LinkedIn:**
 
 
